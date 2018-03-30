@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\pc\downloads\trnts\self taught\lynda - code clinic - c (updated jun 25, 2015)\problems from dan gookins blog\high low of each month\csv data with space\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1491439561 source:c:\users\pc\downloads\trnts\self taught\lynda - code clinic - c (updated jun 25, 2015)\problems from dan gookins blog\high low of each month\csv data with space\data manipulation 1s.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Data Manipulation 1S.h"
+
+1491439561 c:\users\pc\downloads\trnts\self taught\lynda - code clinic - c (updated jun 25, 2015)\problems from dan gookins blog\high low of each month\csv data with space\data manipulation 1s.h
+

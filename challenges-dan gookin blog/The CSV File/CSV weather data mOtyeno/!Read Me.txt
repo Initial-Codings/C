@@ -1,0 +1,3 @@
+the fopenVerify( ) and allocVerify function should  be in <stdio.h> or find somehow for it to be universal to be called whenever need.
+The month string array eliminated the need for a switch case used in the protoypes
+Pointer arithmetic used to assign the correct month according to the month integer.

@@ -1,0 +1,16 @@
+**There is source code and header file**
+	Good practice to have structs and functions as preprocessor directive
+	
+***Why 1S Format***
+	Named it this way because didn't understand the reading of csv files fully 
+	so made the prototype (miniDataS.txt) for abstract use.
+	miniDataS 4 data entries of the weather_Data.csv with commas replaced with spaces(abstract).
+
+**There are comments in the code for future reference**
+1S1 has the first solution.
+1S2 improved version of 1S2. 
+1S3 lessons learned has the aspects that 1 learned and  the final product
+I concluded to.
+
+
+
